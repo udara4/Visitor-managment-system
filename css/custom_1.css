@@ -1,0 +1,46 @@
+* {
+    font-size: 12px;
+    font-family: 'Times New Roman';
+}
+
+td,
+th,
+tr,
+table {
+    border-collapse: collapse;
+}
+
+td.description,
+th.description {
+width:25%;
+}
+
+td.quantity,
+th.quantity {
+width:25%;
+
+}
+
+
+
+
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    align-content: center;
+}
+
+.ticket {
+    text-align: center;
+    align-content: center;
+
+}
+
+
+@media print {
+    .hidden-print,
+    .hidden-print * {
+        display: none !important;
+    }
+}

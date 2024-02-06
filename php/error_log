@@ -1,0 +1,349 @@
+[17-Nov-2022 06:52:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/dskulk/public_html/vms/php/createpass.php on line 113
+[17-Nov-2022 06:52:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/dskulk/public_html/vms/php/createpass.php on line 113
+[17-Nov-2022 06:53:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/dskulk/public_html/vms/php/createpass.php on line 113
+[17-Nov-2022 07:19:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[17-Nov-2022 07:33:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[17-Nov-2022 07:33:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[17-Nov-2022 07:33:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[17-Nov-2022 07:48:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 6
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 7
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 15
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 16
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 24
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 25
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/topbar.php on line 11
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/topbar.php on line 12
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[17-Nov-2022 08:29:35 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[17-Nov-2022 08:45:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[18-Nov-2022 07:33:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[18-Nov-2022 07:36:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[19-Nov-2022 19:08:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 6
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 7
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 15
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 16
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 24
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 25
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/topbar.php on line 11
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/topbar.php on line 12
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[21-Nov-2022 02:47:27 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[21-Nov-2022 02:48:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[21-Nov-2022 05:00:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[21-Nov-2022 05:06:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[21-Nov-2022 05:08:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[21-Nov-2022 05:11:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[21-Nov-2022 05:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[21-Nov-2022 05:20:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[21-Nov-2022 05:48:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[21-Nov-2022 05:54:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[21-Nov-2022 06:03:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[21-Nov-2022 06:20:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[21-Nov-2022 06:29:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dskulk/public_html/vms/php/reson_insert.php on line 9
+[21-Nov-2022 06:47:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[21-Nov-2022 08:03:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[21-Nov-2022 08:03:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 6
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 7
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 15
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 16
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 24
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 25
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/topbar.php on line 11
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/topbar.php on line 12
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[21-Nov-2022 08:23:19 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[22-Nov-2022 06:02:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[22-Nov-2022 06:04:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[22-Nov-2022 06:15:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[22-Nov-2022 06:18:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[22-Nov-2022 06:35:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[22-Nov-2022 08:30:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[22-Nov-2022 08:56:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[23-Nov-2022 03:45:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[23-Nov-2022 04:38:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[23-Nov-2022 05:28:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[23-Nov-2022 05:56:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[23-Nov-2022 07:10:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[23-Nov-2022 07:12:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[23-Nov-2022 07:12:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[23-Nov-2022 07:12:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[23-Nov-2022 07:18:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[23-Nov-2022 07:20:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[23-Nov-2022 10:30:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[23-Nov-2022 10:34:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[24-Nov-2022 09:28:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[24-Nov-2022 09:31:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 6
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 7
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 15
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 16
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 24
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 25
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/topbar.php on line 11
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/topbar.php on line 12
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 04:56:48 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 6
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 7
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 15
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 16
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 24
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 25
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/topbar.php on line 11
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/topbar.php on line 12
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 04:56:58 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 6
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 7
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 15
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 16
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 24
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 25
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/topbar.php on line 11
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/topbar.php on line 12
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 04:57:33 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 6
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 7
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 15
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 16
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 24
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 25
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/topbar.php on line 11
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/topbar.php on line 12
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 04:57:35 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 6
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 7
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 15
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 16
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 24
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 25
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/topbar.php on line 11
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/topbar.php on line 12
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 04:57:42 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 05:05:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 6
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 7
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 15
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 16
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 24
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 25
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/topbar.php on line 11
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/topbar.php on line 12
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 06:36:39 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 3
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 6
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 7
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 12
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 15
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 16
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 21
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 24
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/dashboard.php on line 25
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(php/dbconn.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(): Failed opening 'php/dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/topbar.php on line 7
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dskulk/public_html/vms/php/topbar.php on line 11
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/dskulk/public_html/vms/php/topbar.php on line 12
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[25-Nov-2022 06:38:27 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dskulk/public_html/vms/php/dashboard.php on line 80
+[29-Nov-2022 04:26:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[29-Nov-2022 07:36:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[30-Nov-2022 06:20:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[30-Nov-2022 06:22:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[30-Nov-2022 09:44:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[01-Dec-2022 09:06:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[01-Dec-2022 09:21:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[06-Dec-2022 07:23:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[08-Dec-2022 05:35:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[12-Dec-2022 07:44:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[14-Dec-2022 05:57:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[15-Dec-2022 12:12:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/dskulk/public_html/vms/php/remark_3.php on line 73
+[15-Dec-2022 12:14:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/dskulk/public_html/vms/php/remark_3.php on line 73
+[15-Dec-2022 12:15:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/dskulk/public_html/vms/php/remark_3.php on line 73
+[16-Dec-2022 02:54:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dskulk/public_html/vms/php/reson_insert.php on line 9
+[16-Dec-2022 03:03:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[20-Dec-2022 06:49:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[26-Dec-2022 12:40:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[26-Dec-2022 12:40:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[27-Dec-2022 05:08:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[28-Dec-2022 06:28:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[28-Dec-2022 06:28:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[29-Dec-2022 03:13:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[03-Jan-2023 03:22:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[05-Jan-2023 05:32:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[05-Jan-2023 07:19:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[05-Jan-2023 08:05:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[12-Jan-2023 06:26:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[12-Jan-2023 06:29:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[12-Jan-2023 09:46:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[18-Jan-2023 09:32:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[18-Jan-2023 09:33:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[19-Jan-2023 06:44:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[01-Feb-2023 08:39:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[01-Feb-2023 08:42:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[01-Feb-2023 08:45:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[01-Feb-2023 08:48:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[02-Feb-2023 03:02:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[02-Feb-2023 03:47:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[02-Feb-2023 03:48:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[02-Feb-2023 06:39:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[02-Feb-2023 06:40:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[02-Feb-2023 06:42:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[02-Feb-2023 06:44:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[02-Feb-2023 06:45:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[02-Feb-2023 06:46:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[02-Feb-2023 06:52:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[02-Feb-2023 06:58:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[02-Feb-2023 07:01:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_4.php on line 63
+[02-Feb-2023 08:22:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[03-Feb-2023 07:56:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[08-Feb-2023 04:58:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[08-Feb-2023 05:00:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dskulk/public_html/vms/php/reson_insert.php on line 9
+[08-Feb-2023 05:02:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[22-Feb-2023 04:38:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[22-Feb-2023 04:56:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[22-Feb-2023 05:05:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_4.php on line 63
+[22-Feb-2023 07:23:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[07-Mar-2023 04:48:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[09-Mar-2023 08:30:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[13-Mar-2023 04:25:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[03-Apr-2023 05:36:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[19-Apr-2023 08:21:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[19-Apr-2023 09:35:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[19-Apr-2023 09:37:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_4.php on line 63
+[19-Apr-2023 09:39:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[19-Apr-2023 09:40:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx.php on line 63
+[19-Apr-2023 10:14:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
+[19-Apr-2023 10:16:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_4.php on line 63
+[19-Apr-2023 10:19:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dskulk/public_html/vms/php/indexx_2.php on line 63
